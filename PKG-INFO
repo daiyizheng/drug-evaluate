@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: drug-evaluate
+Version: 0.0.1
+Summary: Drug Molecular Model Evaluation Tool
+Home-page: https://github.com/daiyizheng/drug-evaluate
+Author: Yizheng Dai
+Author-email: 387942239@qq.com
+License: License
+Description: Drug Molecular Model Evaluation Tool 
+Keywords: deep learning, drug, tool
+Platform: any
