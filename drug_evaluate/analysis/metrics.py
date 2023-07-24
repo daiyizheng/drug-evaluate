@@ -14,7 +14,7 @@ from typing import List, Union, Text, Optional
 
 from rdkit.Chem.rdchem import Mol
 
-from drug_evaluate.utils.convert import mol_to_smiles, smiles_to_mol, canonic_smiles
+from drug_evaluate.processing.convert import mol_to_smiles, smiles_to_mol, canonic_smiles
 
 logger = logging.getLogger(__name__)
 

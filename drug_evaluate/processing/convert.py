@@ -16,7 +16,7 @@ import rdkit
 from rdkit import Chem
 from rdkit.Chem.rdchem import Mol
 
-from drug_evaluate.utils.mol_handling import check_sanitization, handleHs, check_for_unassigned_atom
+from drug_evaluate.processing.mol_handling import check_sanitization, handleHs, check_for_unassigned_atom
 
 logger = logging.getLogger(__name__)
 
